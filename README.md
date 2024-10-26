@@ -8,6 +8,7 @@ To tackle this problem, I experimented with several deep learning models, includ
 * VGG
 * ResNet
 * Inception
+  
 Each model was trained on the dataset to learn how to differentiate between healthy and diseased leaves.
 
 # Model Weights
