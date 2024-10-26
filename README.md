@@ -4,12 +4,11 @@
 
 # Models Used
 To tackle this problem, I experimented with several deep learning models, including:
-
-Convolutional Neural Networks (CNN)
-VGG
-ResNet
-Inception
+* Convolutional Neural Networks (CNN)
+* VGG
+* ResNet
+* Inception
 Each model was trained on the dataset to learn how to differentiate between healthy and diseased leaves.
 
 # Model Weights
-The weights of the trained models have been saved for future use, enabling fine-tuning, transfer learning, or deployment without the need to retrain the models from scratch Due to the large file size, the model weights are hosted on Google Drive. You can download them from (https://drive.google.com/drive/folders/1MuinIGYNfHXseQFEkSl9uT1aiTs4tcgk).
+The weights of the trained models have been saved for future use, enabling fine-tuning, transfer learning, or deployment without the need to retrain the models from scratch Due to the large file size, the model weights are hosted on Google Drive. You can download them from **(https://drive.google.com/drive/folders/1MuinIGYNfHXseQFEkSl9uT1aiTs4tcgk)**.
